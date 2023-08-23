@@ -2,7 +2,7 @@
 <p  align="center"><img src = "banner.gif"></p>
 My name is Luca...
 
-    I'm a Jr. Software developer and tester, passionate about learning and looking for my first oportunity to join the IT workforce.
+I'm a Jr. Software developer and tester, passionate about learning and looking for my first oportunity to join the IT workforce.
   
   - 🌍 I'm based in San Carlos de Bariloche, Patagonia, Argentina.
   - 📫 How to reach me: [Linked-In](https://www.linkedin.com/in/lucabp/) , [E-Mail](mailto:lucabeatidm@gmail.com).
