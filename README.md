@@ -1,17 +1,17 @@
 <p  align="center"><img src = "banner.gif"></p>
 
-### Well hello there 👋
-### My name is Luca!
+### Well hello there! 👋
+### My name is Luca...
 
 I'm a Jr. Software developer and tester, passionate about learning and looking for my first oportunity to join the IT workforce.
 
 - 🌍 I'm based in San Carlos de Bariloche, Patagonia, Argentina.
-- 📫 How to reach me: [Linked-In](https://www.linkedin.com/in/lucabp/) , [E-mail](mailto:lucabeatidm@gmail.com)
+- 📫 How to reach me: [Linked-In](https://www.linkedin.com/in/lucabp/) , [E-Mail](mailto:lucabeatidm@gmail.com).
 - 👨🏻‍💻 I enjoy coding Java with the Spring Framework and developing APIs and microservices.
 - 🤓 Currently enrolled in the Certified Tech Developer Program thought and designed by Mercado Libre and Globant at Digital House.
-- 🌱 I am also learning to build systems using [Go](https://go.dev/) 
+- 🌱 I am also learning to build systems using [Go](https://go.dev/).
 
-
+### Skills
 <div style="display: inline-block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height="40px" alt="icon html5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" height="40px" alt="icon css3" />
