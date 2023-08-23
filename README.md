@@ -23,6 +23,7 @@ I'm a Jr. Software developer and tester, passionate about learning and looking f
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50px" height="50px" alt="icon java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50px" height="50px" alt="icon spring"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50px" height="50px" alt="icon go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px" height="50px" alt="icon git-hub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50px" height="50px" alt="icon docker" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40px" height="40px" alt="icon postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50px" height="50px" alt="icon git"/>
