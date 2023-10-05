@@ -1,4 +1,4 @@
-### Well hello there! 👋
+### Well hello there! 👋🏻
 <p  align="center"><img src = "banner.gif"></p>
 My name is Luca...
 
