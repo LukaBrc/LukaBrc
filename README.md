@@ -9,7 +9,7 @@ I am a Jr. Software developer and tester, passionate about learning new technolo
   - 👨🏻‍💻 I enjoy coding Java with the Spring Framework and developing APIs and microservices.
   - 🤓 Currently enrolled in the Certified Tech Developer Program thought and designed by Mercado Libre and Globant at Digital House.
   - 🌱 I am also learning to build systems using [Go](https://go.dev/).
-<p align="left"> ![](https://komarev.com/ghpvc/?username=LukaBrc&color=blueviolet&style=for-the-badge) </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LukaBrc&color=blueviolet&style=for-the-badge" alt="LukaBrc" </p>
 
 ### Skills:
 <div align="center"><br>
