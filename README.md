@@ -37,7 +37,7 @@ I am a Jr. Software developer and tester, passionate about learning new technolo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40px" height="40px" alt="icon ubuntu" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="40px" height="40px" alt="icon fedora" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40px" height="40px" alt="icon postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40px" height="40px" alt="icon amazonwebservices" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40px" height="40px" alt="icon amazonwebservices" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50px" height="50px" alt="icon git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="40px" height="40px" alt="icon gitlab" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50px" height="50px" alt="icon git-hub" />
