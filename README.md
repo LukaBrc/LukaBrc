@@ -7,7 +7,7 @@ I am a Jr. Software developer and tester, passionate about learning new technolo
   - 🌎 I'm based in San Carlos de Bariloche, Río Negro, Patagonia, Argentina. 🇦🇷 🇦🇷 🇦🇷
   - 📫 You can always reach me on [Linked-In](https://www.linkedin.com/in/lucabp/).
   - 👨🏻‍💻 I enjoy coding Java using the Spring Framework, developing APIs and microservices.
-  - 🎓 Graduate of the Certified Tech Developer Program thought and designed by Mercado Libre and Globant at Digital House.
+  - 🎓 Graduate from the Certified Tech Developer Program thought and designed by Mercado Libre and Globant at Digital House.
   - 🌱 I am also learning to build systems using [Go](https://go.dev/).
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LukaBrc&color=blueviolet&style=for-the-badge" alt="LukaBrc" </p>
 
