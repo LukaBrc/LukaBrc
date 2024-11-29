@@ -2,7 +2,7 @@
 <p  align="center"><img src = "banner.gif"></p>
 My name is Luca...
 
-I am a Jr. Software developer and tester, passionate about learning new technologies and looking for my first opportunity to join the IT workforce.
+I am a Jr. Software Developer and Tester, passionate about learning new technologies and currently working remotley as a Back-End Java Developer.
   
   - 🌎 I'm based in San Carlos de Bariloche, Río Negro, Patagonia, Argentina. 🇦🇷 🇦🇷 🇦🇷
   - 📫 You can always reach me on [Linked-In](https://www.linkedin.com/in/lucabp/).
